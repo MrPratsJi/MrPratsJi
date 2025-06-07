@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/🌐 Portfolio-blue?style=flat-square" /></a>
-  <a href="www.linkedin.com/in/pratyush-gupta24/"><img src="https://img.shields.io/badge/💼 LinkedIn-blue?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/pratyush-gupta24/"><img src="https://img.shields.io/badge/💼 LinkedIn-blue?style=flat-square" /></a>
   <a href="https://leetcode.com/u/Pratyush2413/"><img src="https://img.shields.io/badge/🔍 LeetCode-orange?style=flat-square" /></a>
   <a href="mailto:pratyushg2001@gmail.com"><img src="https://img.shields.io/badge/✉️ Contact-grey?style=flat-square" /></a>
 </p>
@@ -63,7 +63,7 @@ Currently pursuing my degree at **Pranveer Singh Institute of Technology**, I'm 
 ## 🤝 Let's Connect
 
 📧 Email: **pratyushg2001@gmail.com**  
-💼 LinkedIn: [Pratyush Gupta](www.linkedin.com/in/pratyush-gupta24/)  
+💼 LinkedIn: [Pratyush Gupta](https://www.linkedin.com/in/pratyush-gupta24/)  
 🔍 LeetCode: [Pratyush Gupta](https://leetcode.com/u/Pratyush2413/)  
 🌐 Portfolio: *Coming Soon*
 
